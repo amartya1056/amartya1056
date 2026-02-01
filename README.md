@@ -69,22 +69,12 @@ Currently building production-grade investigative tools for **Gurgaon Cyber Poli
 <div style="background-color:#0b0b0b;border-left:4px solid #660000;padding:16px;border-radius:6px">
 
 ```txt
-▸ Competing in IIT-level hackathons (Avinya, Data Forge, IIIT Delhi finalist runs)
-▸ Publishing ML research papers (IEEE X-ray contrast enhancement accepted)
-▸ Building real-world AI tools for cyber police (TruthSense, Jimni, Keystone)
-▸ Winning seed funding & grants (₹1.65 Lakh for Hridya Watch health innovation)
+▸ Competing in IIT-level hackathons 
+▸ Publishing ML research papers 
+▸ Building real-world AI tools for cyber police 
+▸ Winning seed funding & grants 
 ▸ Deep-diving into quantum cryptography & post-quantum defense systems
 ```
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/amartya1056/amartya1056/output/snake-red-dark.svg">
-  <img alt="snake eating commits"
-    src="https://raw.githubusercontent.com/amartya1056/amartya1056/output/snake-red.svg">
-</picture>
-
-
-
 ---
 
 ##  Connect (If You Dare)
@@ -104,6 +94,6 @@ Currently building production-grade investigative tools for **Gurgaon Cyber Poli
 ---
 
 <p align="center">
-🦇 <b>Stay low. Learn deep. Ship loud.</b><br/>
-<sub>Not everything broken is a bug.</sub>
+🦇 <b>Stay Cool. Stay Calm. Stay Focused</b><br/>
+<sub>AI is here to assist, not to replace anyone.</sub>
 </p>
