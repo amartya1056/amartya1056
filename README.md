@@ -107,9 +107,9 @@ Currently building production-grade investigative tools for **Gurgaon Cyber Poli
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/AreyMadhav/AreyMadhav/output/snake-red-dark.svg">
+    srcset="https://raw.githubusercontent.com/AreyMadhav/amartya1056/output/snake-red-dark.svg">
   <img alt="snake eating commits"
-    src="https://raw.githubusercontent.com/AreyMadhav/AreyMadhav/output/snake-red.svg">
+    src="https://raw.githubusercontent.com/AreyMadhav/amartya1056/output/snake-red.svg">
 </picture>
 
 
