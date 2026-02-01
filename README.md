@@ -39,11 +39,13 @@ Currently building production-grade investigative tools for **Gurgaon Cyber Poli
 <h2 align="center">Skills</h2>
 
 <div align="center">
-Languages        →  Python • C++ • C • JavaScript
-Frameworks       →  TensorFlow • PyTorch • Scikit-learn • NumPy • Pandas • OpenCV • Streamlit
-Tools & Platforms → AWS • Azure • Docker • Git • Google Colab • Gemini • BERT • SerpAPI
-Databases        →  MySQL • PostgreSQL • MongoDB
-Domains          →  Machine Learning • NLP • Computer Vision • Digital Forensics • Quantum Cryptography
+| Category          | Details                                                                 |
+|-------------------|-------------------------------------------------------------------------|
+| **Languages**     | Python, C++, C, JavaScript                                              |
+| **Frameworks**    | TensorFlow, PyTorch, Scikit-learn, NumPy, Pandas, OpenCV, Streamlit    |
+| **Tools & Platforms** | AWS, Azure, Docker, Git, Google Colab, LLMs (Gemini, BERT), SerpAPI, IPinfo |
+| **Databases**     | MySQL, PostgreSQL, MongoDB                                              |
+| **Domains**       | Machine Learning, NLP, Computer Vision, Digital Forensics, Quantum Cryptography, Data Analysis |
 
 ---
 <h2 align="center">DEPLOYED PROJECTS (Internship Highlights)</h2>
