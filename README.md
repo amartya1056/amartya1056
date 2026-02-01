@@ -36,9 +36,8 @@ Currently building production-grade investigative tools for **Gurgaon Cyber Poli
 </div>
 
 ---
-<h2 align="center">Skills</h2>
+<h2 align=>Skills</h2>
 
-<div align="center">
 | Category          | Details                                                                 |
 |-------------------|-------------------------------------------------------------------------|
 | **Languages**     | Python, C++, C, JavaScript                                              |
