@@ -76,40 +76,11 @@ Currently building production-grade investigative tools for **Gurgaon Cyber Poli
 ▸ Deep-diving into quantum cryptography & post-quantum defense systems
 ```
 
-</div>
-
----
-<div align="center">
-
-## LIVE STATS 
-
-</div>
-
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amartya1056&bg_color=0d0b0b&color=ff1a1a&line=8b0000&point=ff4d4d&area=true&hide_border=true)](https://github.com/amartya1056)
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-<img src="https://readme-stats-fork-mauve.vercel.app/api?username=AreyMadhav&show_icons=true&count_private=true&hide_border=true&bg_color=000000&title_color=ff1a1a&text_color=ff1a1a&icon_color=ff1a1a" />
-
-<img src="https://github-readme-streak-stats-five-roan.vercel.app?user=amartya1056&theme=dark&hide_border=true&background=000000&ring=8b0000&fire=ff1a1a&currStreakLabel=ff1a1a&sideLabels=ff1a1a&dates=ff1a1a" />
-
-</td>
-
-<td width="50%" align="center">
-
-<img src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=amartya1056&layout=compact&langs_count=8&hide_border=true&bg_color=000000&title_color=ff1a1a&text_color=ff1a1a" />
-
-</td>
-</tr>
-</table>
-
 <picture>
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/AreyMadhav/amartya1056/output/snake-red-dark.svg">
+    srcset="https://raw.githubusercontent.com/amartya1056/amartya1056/output/snake-red-dark.svg">
   <img alt="snake eating commits"
-    src="https://raw.githubusercontent.com/AreyMadhav/amartya1056/output/snake-red.svg">
+    src="https://raw.githubusercontent.com/amartya1056/amartya1056/output/snake-red.svg">
 </picture>
 
 
