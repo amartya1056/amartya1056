@@ -41,14 +41,14 @@ Currently building production-grade investigative tools for **Gurgaon Cyber Poli
 
 <div align="center">
 
-| Project                  | What It Does                                                                 | Real-World Impact                          | Tech Stack                     |
-|--------------------------|------------------------------------------------------------------------------|--------------------------------------------|--------------------------------|
-| **TruthSense AI**        | Multimodal misinformation detection platform                                 | 85% accuracy · 50% faster verification     | Python, Gemini, SerpAPI, OCR, LLMs |
-| **WebCrawler Investigator** | IP/ASN/metadata source tracing tool                                          | Used in 30+ active investigations          | Python, IPinfo, APIs           |
-| **Keystone AI**          | Query engine for multi-million-page forensic documents                       | 60% reduction in review time               | Python, Vector DB              |
-| **WhatsApp & Telegram Forensics** | Chat analysis & extraction tools                                             | Deployed in 15+ cybercrime cases · 90% query accuracy | Python, LLMs                   |
-| **AI Forensic Suite**    | India's first integrated AI-powered forensic toolkit                         | Supporting 50+ ongoing investigations      | Python, Gemini, OCR, APIs      |
-| **Jimni AI**             | OCR on FIRs + automated daily investigation diary (Jimni) generator          | In active testing phase for daily police use | Python, OCR, LLMs              |
+| Project                  | What It Does                                                                 | Real-World Impact                          | 
+|--------------------------|------------------------------------------------------------------------------|--------------------------------------------|
+| **TruthSense AI**        | Multimodal misinformation detection platform                                 | 85% accuracy · 50% faster verification |    
+| **WebCrawler Investigator** | IP/ASN/metadata source tracing tool                                          | Used in 30+ active investigations    |      
+| **Keystone AI**          | Query engine for multi-million-page forensic documents                       | 60% reduction in review time |              
+| **WhatsApp & Telegram Forensics** | Chat analysis & extraction tools                                             | Deployed in 15+ cybercrime cases · 90% query accuracy |               
+| **AI Forensic Suite**    | India's first integrated AI-powered forensic toolkit                         | Supporting 50+ ongoing investigations    |  
+| **Jimni AI**             | OCR on FIRs + automated daily investigation diary (Jimni) generator          | In active testing phase for daily police use |
 
 </div>
 
