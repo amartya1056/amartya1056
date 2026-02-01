@@ -67,17 +67,15 @@ Currently building production-grade investigative tools for **Gurgaon Cyber Poli
 <!-- SIDE QUESTS -->
 <h2 align="center">SIDE QUESTS</h2>
 
-<div style="background-color:#0b0b0b;border-left:4px solid #660000;padding:16px;border-radius:6px">
+<div style="background-color:#0b0b0b;border-left:4px solid #1976d2;padding:16px;border-radius:6px">
 
 ```txt
-▸ Competing in IIT-level hackathons 
+▸ Competing in IIT-level hackathons
 ▸ Publishing ML research papers 
 ▸ Building real-world AI tools for cyber police 
 ▸ Winning seed funding & grants 
 ▸ Deep-diving into quantum cryptography & post-quantum defense systems
 ```
-
----
 
 <p align="center">
 🦇 <b>Stay Cool. Stay Calm. Stay Focused</b><br/>
