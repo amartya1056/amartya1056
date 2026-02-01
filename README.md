@@ -1,21 +1,17 @@
-<!-- ╔════════════════════════════════════════════════════════════════════════════╗
-     ║                          Amartya Nayan                                     ║
-     ╚════════════════════════════════════════════════════════════════════════════╝ -->
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=220&section=header&text=Amartya%20Nayan&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=AI%20%7C%20ML%20%7C%20Digital%20Forensics%20%7C%20Cyber%20Investigations&descAlignY=70&descSize=22&descColor=ffffff" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=260&section=header&text=Amartya%20Nayan&fontSize=90&fontColor=ffffff&animation=twinkles&fontAlignY=45&desc=AI%20%7C%20Machine%20Learning%20%7C%20Digital%20Forensics%20%7C%20Cyber%20Investigations&descAlignY=70&descSize=24&descColor=e0f7fa" />
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=5CE1E6&center=true&vCenter=true&width=750&lines=AI+%2F+ML+Researcher;Digital+Forensics+Engineer;Building+Truth-Seeking+Systems;Analyze+%E2%9F%B6+Detect+%E2%9F%B6+Protect" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=4500&pause=1200&color=40C4FF&center=true&vCenter=true&width=850&lines=Amartya%20Nayan;AI+%2F+ML+%7C+Forensic+Engineer;Building+truth-seeking+systems;From+misinformation+to+quantum+security" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Primary%20Focus-AI%20%26%20ML-0d47a1?style=for-the-badge&logoColor=white&color=1976d2&logo=python" />
-<img src="https://img.shields.io/badge/Specialty-Digital%20Forensics-0288d1?style=for-the-badge&logoColor=white&color=42a5f5&logo=shield" />
-<img src="https://img.shields.io/badge/Deployment-Real%20World%20Police%20Tools-039be5?style=for-the-badge&logoColor=white&color=64b5f6&logo=streamlit" />
-<img src="https://img.shields.io/badge/Current%20Vibe-Blue%20Horizon-03a9f4?style=for-the-badge&logoColor=white&color=81d4fa" />
+<img src="https://img.shields.io/badge/Primary%20Domain-AI+%26+ML-0288d1?style=for-the-badge&logo=python&logoColor=white&color=1976d2" />
+<img src="https://img.shields.io/badge/Specialization-Digital+Forensics-039be5?style=for-the-badge&logo=shield&logoColor=white&color=42a5f5" />
+<img src="https://img.shields.io/badge/Deployed%20With-Gurgaon+Cyber+Police-03a9f4?style=for-the-badge&logo=vercel&logoColor=white&color=64b5f6" />
+<img src="https://img.shields.io/badge/Vibe-Blue+Horizon+Tech-4fc3f7?style=for-the-badge&logoColor=white&color=81d4fa" />
 
 <br/><br/>
 
@@ -23,29 +19,30 @@
 
 </div>
 
-<h2 align="center">ABOUT ME</h2>
+<h2 align="center">WHO I AM</h2>
 
 <div align="center">
 
-I'm an **AI/ML researcher** focused on building intelligent systems that **uncover truth** and **accelerate investigations**.
+**AI/ML researcher & digital forensics engineer** — turning complex data into actionable truth.
 
-Currently developing production-grade forensic tools for **Gurgaon Cyber Police** — from misinformation detection to automated investigation diaries.
+Currently building production-grade investigative tools for **Gurgaon Cyber Police** — from real-time misinformation detection to automated case diaries and quantum-secure infrastructure.
 
 </div>
 
 ---
 
-<h2 align="center">HIGHLIGHTED DEPLOYMENTS</h2>
+<h2 align="center">DEPLOYED PROJECTS (Internship Highlights)</h2>
 
 <div align="center">
 
-| Project                  | Description                                                                 | Impact / Metric                  | Tech Stack                     |
-|--------------------------|-----------------------------------------------------------------------------|----------------------------------|--------------------------------|
-| **TruthSense AI**        | Real-time multimodal misinformation detection platform                      | 85% accuracy, 50% faster verification | Python, Gemini, SerpAPI, OCR, LLMs |
-| **Jimni AI**             | OCR + AI-powered daily investigation diary (Jimni) generator                | In active testing at Gurgaon Cyber Police | Python, OCR, LLMs              |
-| **Keystone AI**          | Query engine for multi-million-page forensic document datasets              | 60% reduction in review time     | Python, Vector DB              |
-| **NexArch**              | Quantum-secure API management vault with post-quantum defense               | 99% threat detection             | Qiskit, React, Node.js, AES-256-GCM |
-| **Dr. PhyteRA**          | AI Botanist — plant & soil health classification platform                   | 92% precision, live agricultural demos | ML, Flask/FastAPI, Streamlit   |
+| Project                  | What It Does                                                                 | Real-World Impact                          | Tech Stack                     |
+|--------------------------|------------------------------------------------------------------------------|--------------------------------------------|--------------------------------|
+| **TruthSense AI**        | Multimodal misinformation detection platform                                 | 85% accuracy · 50% faster verification     | Python, Gemini, SerpAPI, OCR, LLMs |
+| **WebCrawler Investigator** | IP/ASN/metadata source tracing tool                                          | Used in 30+ active investigations          | Python, IPinfo, APIs           |
+| **Keystone AI**          | Query engine for multi-million-page forensic documents                       | 60% reduction in review time               | Python, Vector DB              |
+| **WhatsApp & Telegram Forensics** | Chat analysis & extraction tools                                             | Deployed in 15+ cybercrime cases · 90% query accuracy | Python, LLMs                   |
+| **AI Forensic Suite**    | India's first integrated AI-powered forensic toolkit                         | Supporting 50+ ongoing investigations      | Python, Gemini, OCR, APIs      |
+| **Jimni AI**             | OCR on FIRs + automated daily investigation diary (Jimni) generator          | In active testing phase for daily police use | Python, OCR, LLMs              |
 
 </div>
 
@@ -56,9 +53,9 @@ Currently developing production-grade forensic tools for **Gurgaon Cyber Police*
 <div align="center">
 
 ```diff
-+ IEEE Conference Paper — ML-based contrast enhancement for COVID-19 & Pneumonia X-ray imaging
-+ ₹1.65 Lakh Seed Grant — Hridya Watch (Centre for Health & Innovations, MRIIRS)
++ IEEE Published Paper — ML-based contrast enhancement for COVID-19 & Pneumonia X-ray imaging
++ ₹1.65 Lakh Seed Grant — Hridya Watch innovation project (Centre for Health & Innovations, MRIIRS)
 + Letter of Recommendation — ACP, Gurgaon Cyber Police
 + Finalist — Avinya Hackathon, IIT Guwahati (2024)
 + Finalist — Data Forge Hackathon, IIT Roorkee (2026 – ongoing)
-+ Finalist — [IIIT Delhi Hackathon Name & Year – please fill]
++ Finalist — [IIIT Delhi Hackathon – Name & Year]
