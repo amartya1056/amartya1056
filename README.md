@@ -37,6 +37,7 @@ Currently building production-grade investigative tools for **Gurgaon Cyber Poli
 
 ---
 <h2 align="center">Skills</h2>
+<div align="center">
 
 | Category          | Details                                                                 |
 |-------------------|-------------------------------------------------------------------------|
@@ -75,21 +76,6 @@ Currently building production-grade investigative tools for **Gurgaon Cyber Poli
 ▸ Winning seed funding & grants 
 ▸ Deep-diving into quantum cryptography & post-quantum defense systems
 ```
----
-
-##  Connect (If You Dare)
-
-<p align="center">
-  <a href="https://www.youtube.com/@amartyanayan5343">
-    <img src="https://img.shields.io/badge/YouTube-black?style=for-the-badge&logo=youtube&logoColor=red"/>
-  </a>
-  <a href="https://x.com/AmartyaNayan410">
-    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=red"/>
-  </a>
-  <a href="https://discord.gg/4UHQugTH">
-    <img src="https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=discord&logoColor=red"/>
-  </a>
-</p>
 
 ---
 
