@@ -36,7 +36,7 @@ Currently building production-grade investigative tools for **Gurgaon Cyber Poli
 </div>
 
 ---
-<h2 align=>Skills</h2>
+<h2 align="center">Skills</h2>
 
 | Category          | Details                                                                 |
 |-------------------|-------------------------------------------------------------------------|
@@ -75,9 +75,3 @@ Currently building production-grade investigative tools for **Gurgaon Cyber Poli
 + Finalist — Avinya Hackathon, IIT Guwahati (2024)
 + Finalist — Data Forge Hackathon, IIT Roorkee (2026 – ongoing)
 + Finalist — [IIIT Delhi Hackathon – Name & Year]
-
-Languages        →  Python • C++ • C • JavaScript
-Frameworks       →  TensorFlow • PyTorch • Scikit-learn • NumPy • Pandas • OpenCV • Streamlit
-Tools & Platforms → AWS • Azure • Docker • Git • Google Colab • Gemini • BERT • SerpAPI
-Databases        →  MySQL • PostgreSQL • MongoDB
-Domains          →  Machine Learning • NLP • Computer Vision • Digital Forensics • Quantum Cryptography
