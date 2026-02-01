@@ -1,61 +1,67 @@
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=260&section=header&text=Amartya%20Nayan&fontSize=90&fontColor=ffffff&animation=twinkles&fontAlignY=45&desc=AI%20%7C%20Machine%20Learning%20%7C%20Digital%20Forensics%20%7C%20Cyber%20Investigations&descAlignY=70&descSize=24&descColor=e0f7fa" />
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=4500&pause=1200&color=40C4FF&center=true&vCenter=true&width=850&lines=Amartya%20Nayan;AI+%2F+ML+%7C+Forensic+Engineer;Building+truth-seeking+systems;From+misinformation+to+quantum+security" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Primary%20Domain-AI+%26+ML-0288d1?style=for-the-badge&logo=python&logoColor=white&color=1976d2" />
-<img src="https://img.shields.io/badge/Specialization-Digital+Forensics-039be5?style=for-the-badge&logo=shield&logoColor=white&color=42a5f5" />
-<img src="https://img.shields.io/badge/Deployed%20With-Gurgaon+Cyber+Police-03a9f4?style=for-the-badge&logo=vercel&logoColor=white&color=64b5f6" />
-<img src="https://img.shields.io/badge/Vibe-Blue+Horizon+Tech-4fc3f7?style=for-the-badge&logoColor=white&color=81d4fa" />
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=amartya1056&style=for-the-badge&color=1976d2&label=PROFILE+VIEWS" />
-
-</div>
-
-<h2 align="center">WHO I AM</h2>
+<!-- ██████╗ ███████╗██████╗      █████╗ ███╗   ██╗██████╗      ██████╗ ██╗      █████╗  ██████╗██╗  ██╗ -->
+<!-- ██╔══██╗██╔════╝██╔══██╗    ██╔══██╗████╗  ██║██╔══██╗    ██╔═══██╗██║     ██╔══██╗██╔════╝██║ ██╔╝ -->
+<!-- ██████╔╝█████╗  ██║  ██║    ███████║██╔██╗ ██║██║  ██║    ██║   ██║██║     ███████║██║     █████╔╝  -->
+<!-- ██╔══██╗██╔══╝  ██║  ██║    ██╔══██║██║╚██╗██║██║  ██║    ██║   ██║██║     ██╔══██║██║     ██╔═██╗  -->
+<!-- ██║  ██║███████╗██████╔╝    ██║  ██║██║ ╚████║██████╔╝    ╚██████╔╝███████╗██║  ██║╚██████╗██║  ██╗ -->
+<!-- ╚═╝  ╚═╝╚══════╝╚═════╝     ╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝      ╚═════╝ ╚══════╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝ -->
 
 <div align="center">
 
-**AI/ML researcher & digital forensics engineer** — turning complex data into actionable truth.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:000000,100:003366&text=Amartya%20Nayan&fontColor=00e5ff&fontSize=64&fontAlignY=35&animation=twinkling&desc=AI%20%7C%20Digital%20Forensics%20%7C%20Machine%20Learning%20%7C%20Applied%20Research&descAlignY=60&descSize=18" />
 
-Currently building production-grade investigative tools for **Gurgaon Cyber Police** — from real-time misinformation detection to automated case diaries and quantum-secure infrastructure.
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=900&color=00E5FF&center=true&vCenter=true&width=900&lines=amartya%40ai-lab%3A~%24+whoami;AI+%26+ML+Engineer;Digital+Forensics+Intern;Building+AI+that+works+in+real+investigations" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/FOCUS-AI%20%26%20FORENSICS-black?style=for-the-badge&labelColor=000000&color=003366" />
+<img src="https://img.shields.io/badge/DOMAIN-MACHINE%20LEARNING-black?style=for-the-badge&labelColor=000000&color=005577" />
+<img src="https://img.shields.io/badge/WORK-REAL%20WORLD%20AI-black?style=for-the-badge&labelColor=000000&color=007799" />
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=amartya1056&style=for-the-badge&color=00e5ff&label=PROFILE%20HITS" />
 
 </div>
+
+<h2 align="center">SYSTEM PROFILE</h2>
+
+I’m an <b>AI & Machine Learning engineer</b> working at the intersection of<br>
+<i>digital forensics, large-scale data, and real-world investigations.</i>
 
 ---
+<b style="color:#00e5ff;">CURRENT OPERATIONS:</b>
 
-<h2 align="center">DEPLOYED PROJECTS (Internship Highlights)</h2>
+<pre>
+▸ building AI forensic tools
+▸ multimodal misinformation detection
+▸ OCR + LLM pipelines for investigations
+▸ large-scale report & chat analysis
+▸ deploying ML systems for police workflows
+</pre>
+
+I build systems that reduce human effort,<br>
+<b>not demo notebooks.</b>
+
+<!-- MINDSET -->
+<h2 align="center">CORE MINDSET</h2>
 
 <div align="center">
 
-| Project                  | What It Does                                                                 | Real-World Impact                          | Tech Stack                     |
-|--------------------------|------------------------------------------------------------------------------|--------------------------------------------|--------------------------------|
-| **TruthSense AI**        | Multimodal misinformation detection platform                                 | 85% accuracy · 50% faster verification     | Python, Gemini, SerpAPI, OCR, LLMs |
-| **WebCrawler Investigator** | IP/ASN/metadata source tracing tool                                          | Used in 30+ active investigations          | Python, IPinfo, APIs           |
-| **Keystone AI**          | Query engine for multi-million-page forensic documents                       | 60% reduction in review time               | Python, Vector DB              |
-| **WhatsApp & Telegram Forensics** | Chat analysis & extraction tools                                             | Deployed in 15+ cybercrime cases · 90% query accuracy | Python, LLMs                   |
-| **AI Forensic Suite**    | India's first integrated AI-powered forensic toolkit                         | Supporting 50+ ongoing investigations      | Python, Gemini, OCR, APIs      |
-| **Jimni AI**             | OCR on FIRs + automated daily investigation diary (Jimni) generator          | In active testing phase for daily police use | Python, OCR, LLMs              |
-
+```txt
+[ observe → model → validate → deploy → iterate ]
 </div>
+<h2 align="center">SKILLS & LOADOUT</h2> <div style="background-color:#0b0b0b;border-left:4px solid #003366;padding:16px;border-radius:6px">
+▸ Machine Learning & Deep Learning
+▸ NLP & Large Language Models
+▸ Computer Vision & OCR
+▸ Digital Forensics Automation
+▸ Secure AI System Design
+▸ Data Analysis at Scale
+</div>
+<h2 align="center">LIVE STATS</h2>
 
----
-
-<h2 align="center">CREDENTIALS</h2>
-
-<div align="center">
-
-```diff
-+ IEEE Published Paper — ML-based contrast enhancement for COVID-19 & Pneumonia X-ray imaging
-+ ₹1.65 Lakh Seed Grant — Hridya Watch innovation project (Centre for Health & Innovations, MRIIRS)
-+ Letter of Recommendation — ACP, Gurgaon Cyber Police
-+ Finalist — Avinya Hackathon, IIT Guwahati (2024)
-+ Finalist — Data Forge Hackathon, IIT Roorkee (2026 – ongoing)
-+ Finalist — [IIIT Delhi Hackathon – Name & Year]
+<table> <tr> <td width="50%" align="center"> <img src="https://github-readme-stats.vercel.app/api?username=amartya1056&show_icons=true&hide_border=true&bg_color=000000&title_color=00e5ff&text_color=00e5ff&icon_color=00e5ff" /> <img src="https://github-readme-streak-stats.herokuapp.com?user=amartya1056&theme=dark&hide_border=true&background=000000&ring=003366&fire=00e5ff&currStreakLabel=00e5ff" /> </td> <td width="50%" align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amartya1056&layout=compact&langs_count=8&hide_border=true&bg_color=000000&title_color=00e5ff&text_color=00e5ff" /> </td> </tr> </table> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amartya1056/amartya1056/output/snake-dark.svg"> <img alt="snake eating commits" src="https://raw.githubusercontent.com/amartya1056/amartya1056/output/snake.svg"> </picture>
+Connect
+<p align="center"> <a href="mailto:amartyanayan397@gmail.com"> <img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=00e5ff"/> </a> <a href="https://amartyanayan.vercel.app"> <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel&logoColor=00e5ff"/> </a> <a href="https://github.com/amartya1056"> <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=00e5ff"/> </a> </p> <p align="center"> 🧠 <b>Build systems. Measure impact. Ship responsibly.</b> </p> ```
