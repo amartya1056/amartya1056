@@ -63,15 +63,76 @@ Currently building production-grade investigative tools for **Gurgaon Cyber Poli
 </div>
 
 ---
+<!-- SIDE QUESTS -->
+<h2 align="center">SIDE QUESTS</h2>
 
-<h2 align="center">CREDENTIALS</h2>
+<div style="background-color:#0b0b0b;border-left:4px solid #660000;padding:16px;border-radius:6px">
 
+```txt
+▸ Competing in IIT-level hackathons (Avinya, Data Forge, IIIT Delhi finalist runs)
+▸ Publishing ML research papers (IEEE X-ray contrast enhancement accepted)
+▸ Building real-world AI tools for cyber police (TruthSense, Jimni, Keystone)
+▸ Winning seed funding & grants (₹1.65 Lakh for Hridya Watch health innovation)
+▸ Deep-diving into quantum cryptography & post-quantum defense systems
+```
+
+</div>
+
+---
 <div align="center">
 
-```diff
-+ IEEE Published Paper — ML-based contrast enhancement for COVID-19 & Pneumonia X-ray imaging
-+ ₹1.65 Lakh Seed Grant — Hridya Watch innovation project (Centre for Health & Innovations, MRIIRS)
-+ Letter of Recommendation — ACP, Gurgaon Cyber Police
-+ Finalist — Avinya Hackathon, IIT Guwahati (2024)
-+ Finalist — Data Forge Hackathon, IIT Roorkee (2026 – ongoing)
-+ Finalist — [IIIT Delhi Hackathon – Name & Year]
+## LIVE STATS 
+
+</div>
+
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AreyMadhav&bg_color=0d0b0b&color=ff1a1a&line=8b0000&point=ff4d4d&area=true&hide_border=true)](https://github.com/AreyMadhav)
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+<img src="https://readme-stats-fork-mauve.vercel.app/api?username=AreyMadhav&show_icons=true&count_private=true&hide_border=true&bg_color=000000&title_color=ff1a1a&text_color=ff1a1a&icon_color=ff1a1a" />
+
+<img src="https://github-readme-streak-stats-five-roan.vercel.app?user=amartya1056&theme=dark&hide_border=true&background=000000&ring=8b0000&fire=ff1a1a&currStreakLabel=ff1a1a&sideLabels=ff1a1a&dates=ff1a1a" />
+
+</td>
+
+<td width="50%" align="center">
+
+<img src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=amartya1056&layout=compact&langs_count=8&hide_border=true&bg_color=000000&title_color=ff1a1a&text_color=ff1a1a" />
+
+</td>
+</tr>
+</table>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/AreyMadhav/AreyMadhav/output/snake-red-dark.svg">
+  <img alt="snake eating commits"
+    src="https://raw.githubusercontent.com/AreyMadhav/AreyMadhav/output/snake-red.svg">
+</picture>
+
+
+
+---
+
+##  Connect (If You Dare)
+
+<p align="center">
+  <a href="https://www.youtube.com/@amartyanayan5343">
+    <img src="https://img.shields.io/badge/YouTube-black?style=for-the-badge&logo=youtube&logoColor=red"/>
+  </a>
+  <a href="https://x.com/AmartyaNayan410">
+    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=red"/>
+  </a>
+  <a href="https://discord.gg/4UHQugTH">
+    <img src="https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=discord&logoColor=red"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+🦇 <b>Stay low. Learn deep. Ship loud.</b><br/>
+<sub>Not everything broken is a bug.</sub>
+</p>
