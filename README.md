@@ -85,7 +85,7 @@ Currently building production-grade investigative tools for **Gurgaon Cyber Poli
 
 </div>
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AreyMadhav&bg_color=0d0b0b&color=ff1a1a&line=8b0000&point=ff4d4d&area=true&hide_border=true)](https://github.com/AreyMadhav)
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amartya1056&bg_color=0d0b0b&color=ff1a1a&line=8b0000&point=ff4d4d&area=true&hide_border=true)](https://github.com/amartya1056)
 
 <table>
 <tr>
