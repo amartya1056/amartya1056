@@ -61,6 +61,8 @@ Currently building production-grade investigative tools for **Gurgaon Cyber Poli
 | **AI Forensic Suite**    | India's first integrated AI-powered forensic toolkit                         | Supporting 50+ ongoing investigations    |  
 | **Jimni AI**             | OCR on FIRs + automated daily investigation diary (Jimni) generator          | In active testing phase for daily police use |
 
+**[Cortexium](https://cortexium.vercel.app/)** | Elite AI-powered digital forensics platform for processing terabytes of evidence, decrypting communications & generating court-defensible intelligence | Actively deployed with **Gurugram Cyber Cell** — battle-tested in real investigations |
+
 </div>
 
 ---
