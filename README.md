@@ -57,8 +57,7 @@ Currently building production-grade investigative tools for **Gurgaon Cyber Poli
 | **TruthSense AI**        | Multimodal misinformation detection platform                                 | 85% accuracy · 50% faster verification |    
 | **WebCrawler Investigator** | IP/ASN/metadata source tracing tool                                          | Used in 30+ active investigations    |      
 | **Keystone AI**          | Query engine for multi-million-page forensic documents                       | 60% reduction in review time |              
-| **WhatsApp & Telegram Forensics** | Chat analysis & extraction tools                                             | Deployed in 15+ cybercrime cases · 90% query accuracy |               
-| **AI Forensic Suite**    | India's first integrated AI-powered forensic toolkit                         | Supporting 50+ ongoing investigations    |  
+| **WhatsApp & Telegram Forensics** | Chat analysis & extraction tools                                             | Deployed in 15+ cybercrime cases · 90% query accuracy |                 
 | **Jimni AI**             | OCR on FIRs + automated daily investigation diary (Jimni) generator          | In active testing phase for daily police use |
 
 **[Cortexium](https://cortexium.vercel.app/)** | Elite AI-powered digital forensics platform for processing terabytes of evidence, decrypting communications & generating court-defensible intelligence | Actively deployed with **Gurugram Cyber Cell** — battle-tested in real investigations |
