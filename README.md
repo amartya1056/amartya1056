@@ -60,7 +60,7 @@ Currently building production-grade investigative tools for **Gurgaon Cyber Poli
 | **WhatsApp & Telegram Forensics** | Chat analysis & extraction tools                                             | Deployed in 15+ cybercrime cases · 90% query accuracy |                 
 | **Jimni AI**             | OCR on FIRs + automated daily investigation diary (Jimni) generator          | In active testing phase for daily police use |
 
-**[Cortexium](https://cortexium.vercel.app/)** | Elite AI-powered digital forensics platform for processing terabytes of evidence, decrypting communications & generating court-defensible intelligence | Actively deployed with **Gurugram Cyber Cell** — battle-tested in real investigations |
+**[Cortexium](https://cortexium.in/)** | Elite AI-powered digital forensics platform for processing terabytes of evidence, decrypting communications & generating court-defensible intelligence | Actively deployed with **Gurugram Cyber Cell** — battle-tested in real investigations |
 
 </div>
 
